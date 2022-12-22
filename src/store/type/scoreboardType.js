@@ -1,0 +1,1 @@
+export const GET_SCOREBOARD = "GET_SCOREBOARD"

@@ -1,0 +1,1 @@
+export const GET_GAMELIST = "GET_GAMELIST"
